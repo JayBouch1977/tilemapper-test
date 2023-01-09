@@ -1,0 +1,42 @@
+<resources>
+
+      <fonts>
+      
+      <font id="font_min_0_19" filename="minute-0-19.fnt" antialias="true"/>
+      <font id="font_min_20_39" filename="minute-20-39.fnt" antialias="true"/>
+      <font id="font_min_40_59" filename="minute-40-59.fnt" antialias="true"/>
+      <font id="font_poi_0_19" filename="pointer-0-19.fnt" antialias="true"/>
+      <font id="font_poi_20_39" filename="pointer-20-39.fnt" antialias="true"/>
+      <font id="font_poi_40_59" filename="pointer-40-59.fnt" antialias="true"/>   
+      <font id="font_minb_0_19" filename="minuteblack-0-19.fnt" antialias="true"/>
+      <font id="font_minb_20_39" filename="minuteblack-20-39.fnt" antialias="true"/>
+      <font id="font_minb_40_59" filename="minuteblack-40-59.fnt" antialias="true"/>   
+      <font id="font_hour_0_19" filename="hour-0-19.fnt" antialias="true"/>
+      <font id="font_hour_20_39" filename="hour-20-39.fnt" antialias="true"/>
+      <font id="font_hour_40_59" filename="hour-40-59.fnt" antialias="true"/>
+      <font id="font_hourb_0_19" filename="hourb-0-19.fnt" antialias="true"/>
+      <font id="font_hourb_20_39" filename="hourb-20-39.fnt" antialias="true"/>
+      <font id="font_hourb_40_59" filename="hourb-40-59.fnt" antialias="true"/>
+      
+      
+    </fonts>
+
+    
+    <jsonData id="font_min_0_19_data" filename="minute-0-19.json"/>
+    <jsonData id="font_min_20_39_data" filename="minute-20-39.json"/>
+    <jsonData id="font_min_40_59_data" filename="minute-40-59.json"/>
+    <jsonData id="font_poi_0_19_data" filename="pointer-0-19.json"/>
+    <jsonData id="font_poi_20_39_data" filename="pointer-20-39.json"/>
+    <jsonData id="font_poi_40_59_data" filename="pointer-40-59.json"/>
+    <jsonData id="font_minb_0_19_data" filename="minuteblack-0-19.json"/>
+    <jsonData id="font_minb_20_39_data" filename="minuteblack-20-39.json"/>
+    <jsonData id="font_minb_40_59_data" filename="minuteblack-40-59.json"/>       
+    <jsonData id="font_hour_0_19_data" filename="hour-0-19.json"/>
+    <jsonData id="font_hour_20_39_data" filename="hour-20-39.json"/>
+    <jsonData id="font_hour_40_59_data" filename="hour-40-59.json"/>
+    <jsonData id="font_hourb_0_19_data" filename="hourb-0-19.json"/>
+    <jsonData id="font_hourb_20_39_data" filename="hourb-20-39.json"/>
+    <jsonData id="font_hourb_40_59_data" filename="hourb-40-59.json"/>
+
+</resources>
+    
